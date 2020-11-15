@@ -1,2 +1,0 @@
-# Jetpack tutorials
-for beginners
